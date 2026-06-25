@@ -1,0 +1,8 @@
+{
+  "name": "智能家居设备数字字典",
+  "description": "基于Excel设备数据库的智能家居设备数字字典，包含大盘看板、空间浏览器、设备卡片、关系图谱及数据质量分析系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
